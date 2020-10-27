@@ -1,74 +1,28 @@
 {
     "version": "1.0",
-    "resource": "/SpeedCalc",
-    "path": "/Test/SpeedCalc",
+    "resource": null,
+    "path": null,
     "httpMethod": "GET",
-    "headers": {
-        "Content-Length": "0",
-        "Host": "fgfns1vaz3.execute-api.us-east-2.amazonaws.com",
-        "Postman-Token": "24247f87-d363-43e4-8b57-525054d3e6b3",
-        "User-Agent": "PostmanRuntime/7.26.5",
-        "X-Amzn-Trace-Id": "Root=1-5f9780fd-1d7a23d0522f675e6bd06767",
-        "X-Forwarded-For": "45.18.190.85",
-        "X-Forwarded-Port": "443",
-        "X-Forwarded-Proto": "https",
-        "accept": "*/*",
-        "accept-encoding": "gzip, deflate, br",
-        "cache-control": "no-cache"
-    },
-    "multiValueHeaders": {
-        "Content-Length": [
-            "0"
-        ],
-        "Host": [
-            "fgfns1vaz3.execute-api.us-east-2.amazonaws.com"
-        ],
-        "Postman-Token": [
-            "24247f87-d363-43e4-8b57-525054d3e6b3"
-        ],
-        "User-Agent": [
-            "PostmanRuntime/7.26.5"
-        ],
-        "X-Amzn-Trace-Id": [
-            "Root=1-5f9780fd-1d7a23d0522f675e6bd06767"
-        ],
-        "X-Forwarded-For": [
-            "45.18.190.85"
-        ],
-        "X-Forwarded-Port": [
-            "443"
-        ],
-        "X-Forwarded-Proto": [
-            "https"
-        ],
-        "accept": [
-            "*/*"
-        ],
-        "accept-encoding": [
-            "gzip, deflate, br"
-        ],
-        "cache-control": [
-            "no-cache"
-        ]
-    },
+    "headers": {},
+    "multiValueHeaders": {},
     "queryStringParameters": {
-        "Distance": "371",
-        "Speed": "49"
+        "param1": "Hello",
+        "param2": "World"
     },
     "multiValueQueryStringParameters": {
-        "Distance": [
-            "371"
+        "param1": [
+            "value1"
         ],
-        "Speed": [
-            "49"
+        "param2": [
+            "value2"
         ]
     },
     "requestContext": {
-        "accountId": "276333604186",
-        "apiId": "fgfns1vaz3",
-        "domainName": "fgfns1vaz3.execute-api.us-east-2.amazonaws.com",
-        "domainPrefix": "fgfns1vaz3",
-        "extendedRequestId": "VDEXqgCWCYcEMLg=",
+        "accountId": null,
+        "apiId": null,
+        "domainName": null,
+        "domainPrefix": null,
+        "extendedRequestId": null,
         "httpMethod": "GET",
         "identity": {
             "accessKey": null,
@@ -80,19 +34,19 @@
             "cognitoIdentityId": null,
             "cognitoIdentityPoolId": null,
             "principalOrgId": null,
-            "sourceIp": "45.18.190.85",
+            "sourceIp": null,
             "user": null,
             "userAgent": "PostmanRuntime/7.26.5",
             "userArn": null
         },
-        "path": "/Test/SpeedCalc",
-        "protocol": "HTTP/1.1",
-        "requestId": "VDEXqgCWCYcEMLg=",
-        "requestTime": "27/Oct/2020:02:07:57 +0000",
-        "requestTimeEpoch": 1603764477702,
-        "resourceId": "ANY /SpeedCalc",
-        "resourcePath": "/SpeedCalc",
-        "stage": "Test"
+        "path": null,
+        "protocol": null,
+        "requestId": null,
+        "requestTime": null,
+        "requestTimeEpoch": null,
+        "resourceId": null,
+        "resourcePath": null,
+        "stage": null
     },
     "pathParameters": null,
     "stageVariables": null,
