@@ -1,0 +1,10 @@
+{
+    "callbackWaitsForEmptyEventLoop": true,
+    "functionVersion": "$LATEST",
+    "functionName": "SpeedCalc",
+    "memoryLimitInMB": "128",
+    "logGroupName": "/aws/lambda/SpeedCalc",
+    "logStreamName": "2020/10/27/[$LATEST]4670ca97b58b4a53916ef72be7f4ab79",
+    "invokedFunctionArn": "arn:aws:lambda:us-east-2:276333604186:function:SpeedCalc",
+    "awsRequestId": "991ba1ed-a8bd-45aa-ab1f-dcb1d5251431"
+}
